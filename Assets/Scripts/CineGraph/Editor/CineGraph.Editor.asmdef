@@ -1,0 +1,18 @@
+{
+    "name": "CineGraph.Editor",
+    "rootNamespace": "CineGraph.Editor",
+    "references": [
+        "GUID:1b3851640146da049bef10a03eae53ba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

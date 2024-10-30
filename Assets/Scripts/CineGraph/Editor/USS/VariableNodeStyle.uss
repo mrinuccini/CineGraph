@@ -1,0 +1,5 @@
+.variable #node-border
+{
+	border-radius: 20px;
+	border-width: 2;
+}

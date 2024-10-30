@@ -1,0 +1,8 @@
+.wait-for #title {
+	background-color: rgba(195, 177, 225, 0.5);
+}
+
+.unity-base-field__label{
+	min-width: 20px !important;
+	margin-right: 10px;
+}
